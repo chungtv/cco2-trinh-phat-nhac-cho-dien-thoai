@@ -1,0 +1,10 @@
+             L?ch phân công công vi?c
+ 
+   TT     ngu?i th?c hi?n 		công vi?c 		t/g b?t d?u    	t/g hòan thành
+   1	lê trung hi?u		dac t? yêu c?u	11/11		11/11
+	nguy?n tu?n anh
+   2	duong hoàng nguyên	vi?t code		12/11		15/11
+	h? xuân dung
+  3	d?u quang dông		test		15/11		17/11
+  4	duong hoàng nguyên	s?a l?i		16/11		17/11
+	h? xuân dung 	
