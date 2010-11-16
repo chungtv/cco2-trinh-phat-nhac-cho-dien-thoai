@@ -43,5 +43,10 @@ public final class R {
         public static final int title=0x7f060000;
         public static final int year=0x7f060006;
     }
+    public static final class layout {
+        public static final int list_item=0x7f030000;
+        public static final int media_palyer=0x7f030001;
+        public static final int progressbar_1=0x7f030002;
+    }
     
 }
