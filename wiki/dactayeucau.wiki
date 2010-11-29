@@ -1,0 +1,9 @@
+#labels Featured
+	Tính năng Play audio or video file: cho phép chơi nhạc.
+	Tính năng Stop: kết thúc quá trình chơi nhạc.
+	Tính năng Pause: cho phép tạm dừng quá trình chơi nhạc.
+	Tính năng Forward: cho phép  chuyển bài hát tiếp theo trong danh sách nhạc.
+	Tính năng Previous: cho phép chuyển bài hát về trước trong danh sách nhạc.
+	Tính năng Volume: cho phép tăng giảm âm thanh.
+	Thanh trạng thái: thể hiện trạng thái bài hát, phía dưới thanh trạng thái có hiển thị thời gian chạy của bài hát.  
+	Tính năng PlayList:Hiển thị danh 
