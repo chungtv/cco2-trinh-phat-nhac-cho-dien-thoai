@@ -16,12 +16,7 @@ public final class R {
     public static final class drawable {
         public static final int background=0x7f020000;
         public static final int fastforward=0x7f020001;
-        public static final int icon=0x7f020002;
-        public static final int icon_notice=0x7f020003;
-        public static final int list_back=0x7f020004;
-        public static final int pause=0x7f020005;
-        public static final int play=0x7f020006;
-        public static final int rewind=0x7f020007;
+        public static final 0x7f020007;
         public static final int stop=0x7f020008;
     }
     public static final class id {
